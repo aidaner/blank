@@ -1,0 +1,10 @@
+image:
+  file: .gitpod.Dockerfile
+
+# List the ports you want to expose and what to do when they are served. See https://www.gitpod.io/docs/43_config_ports/
+ports:
+  - port: 6080
+  - port: 35900
+  - port: 5900
+
+
